@@ -82,6 +82,17 @@ Pet_Breed_Classification/
 
 ---
 
+## Dataset
+
+This project uses the Oxford-IIIT Pet Dataset.
+
+Download it from:
+https://www.robots.ox.ac.uk/~vgg/data/pets/
+
+
+
+---
+
 ## 👩‍💻 Author
 
 **Anwesha Barik**
